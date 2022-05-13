@@ -1,0 +1,2376 @@
+For sample: 1  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7959831974235149
+***Test accuracy***
+0.6271112248471298
+For sample: 1  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.7963211414397091
+***Test accuracy***
+0.628505239339493
+For sample: 1  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06313470110541487
+***Test accuracy***
+0.12878808285968268
+For sample: 1  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06306373286201408
+***Test accuracy***
+0.12876114538156938
+For sample: 1  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.8568671913810758
+***Test accuracy***
+0.7385919780190179
+For sample: 1  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7959831974235149
+***Test accuracy***
+0.6270573498909032
+For sample: 1  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.7962772087176039
+***Test accuracy***
+0.6282830051450583
+For sample: 1  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06272240940565786
+***Test accuracy***
+0.12714489669477144
+For sample: 1  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06270889164501009
+***Test accuracy***
+0.127239177868168
+For sample: 1  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.8568638119409139
+***Test accuracy***
+0.7384774937370363
+For sample: 1  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7959831974235149
+***Test accuracy***
+0.6271112248471298
+For sample: 1  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8020797074756596
+***Test accuracy***
+0.6381219190259408
+For sample: 1  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06313470110541487
+***Test accuracy***
+0.12878808285968268
+For sample: 1  For coeff: 0  for C: 10
+***Validation accuracy***
+0.7963819713626241
+***Test accuracy***
+0.628794817229211
+For sample: 1  For coeff: 0  for C: 100
+***Validation accuracy***
+0.8568671913810758
+***Test accuracy***
+0.7385919780190179
+For sample: 1  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9186365986610658
+***Test accuracy***
+0.8379576004094497
+For sample: 1  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7960507862267536
+***Test accuracy***
+0.6278115992780756
+For sample: 1  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.05915372059464629
+***Test accuracy***
+0.12005360558144547
+For sample: 1  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.062773101008087
+***Test accuracy***
+0.12782506801713223
+For sample: 1  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.05915372059464629
+***Test accuracy***
+0.11730598281388896
+For sample: 1  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8621222208328968
+***Test accuracy***
+0.7471446273199903
+For sample: 1  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8734805192171865
+***Test accuracy***
+0.7642903321391051
+For sample: 1  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8701619089781587
+***Test accuracy***
+0.7593001643186165
+For sample: 1  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8789822478008293
+***Test accuracy***
+0.7717722166850739
+For sample: 1  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8745788372698179
+***Test accuracy***
+0.7643105352476901
+For sample: 2  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7960169918251343
+***Test accuracy***
+0.6278115992780756
+For sample: 2  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8030834012037565
+***Test accuracy***
+0.640034479971985
+For sample: 2  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.0605764649028242
+***Test accuracy***
+0.12138701074805376
+For sample: 2  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06397956114590057
+***Test accuracy***
+0.12738059962826281
+For sample: 2  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7967232948189803
+***Test accuracy***
+0.6289564420978908
+For sample: 2  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7960136123849723
+***Test accuracy***
+0.6278115992780756
+For sample: 2  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8030293301611655
+***Test accuracy***
+0.6399536675376452
+For sample: 2  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.0639896994663864
+***Test accuracy***
+0.12717183417288475
+For sample: 2  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06388831626152812
+***Test accuracy***
+0.12740080273684778
+For sample: 2  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7967097770583326
+***Test accuracy***
+0.6289564420978908
+For sample: 2  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7960169918251343
+***Test accuracy***
+0.6278115992780756
+For sample: 2  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8030901600840805
+***Test accuracy***
+0.640034479971985
+For sample: 2  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06395590506476698
+***Test accuracy***
+0.12752875575788594
+For sample: 2  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06397956114590057
+***Test accuracy***
+0.12720550602052635
+For sample: 2  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7967232948189803
+***Test accuracy***
+0.6289564420978908
+For sample: 2  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9188562622715921
+***Test accuracy***
+0.8444697357433397
+For sample: 2  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7961623077520978
+***Test accuracy***
+0.6279799585162837
+For sample: 2  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06396942282541475
+***Test accuracy***
+0.12839075505751152
+For sample: 2  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06385790130007063
+***Test accuracy***
+0.12839748942703985
+For sample: 2  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7963211414397091
+***Test accuracy***
+0.6282830051450583
+For sample: 2  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8678807868688473
+***Test accuracy***
+0.7561013387926623
+For sample: 2  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8798744200035822
+***Test accuracy***
+0.7731527624383805
+For sample: 2  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8695265742277134
+***Test accuracy***
+0.7593001643186165
+For sample: 2  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8705336473959724
+***Test accuracy***
+0.7605527570508849
+For sample: 2  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8782455298455258
+***Test accuracy***
+0.7717722166850739
+For sample: 3  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7957804310137983
+***Test accuracy***
+0.6270371467823183
+For sample: 3  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8024176514918538
+***Test accuracy***
+0.6388290278264149
+For sample: 3  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06285758701213556
+***Test accuracy***
+0.1269967405651483
+For sample: 3  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.7964360424052151
+***Test accuracy***
+0.6288621609244942
+For sample: 3  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7964360424052151
+***Test accuracy***
+0.6288621609244942
+For sample: 3  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7957601543728265
+***Test accuracy***
+0.6270371467823183
+For sample: 3  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8023602010091009
+***Test accuracy***
+0.6386539342186784
+For sample: 3  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.0628677253326214
+***Test accuracy***
+0.12699000619561995
+For sample: 3  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06318201326768208
+***Test accuracy***
+0.12874767664251272
+For sample: 3  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7964157657642434
+***Test accuracy***
+0.6288621609244942
+For sample: 3  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7957804310137983
+***Test accuracy***
+0.6270371467823183
+For sample: 3  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8024176514918538
+***Test accuracy***
+0.6388290278264149
+For sample: 3  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06286096645229751
+***Test accuracy***
+0.12701694367373326
+For sample: 3  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06314821886606264
+***Test accuracy***
+0.12882848907685263
+For sample: 3  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7964360424052151
+***Test accuracy***
+0.6288621609244942
+For sample: 3  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9187244641052763
+***Test accuracy***
+0.8379576004094497
+For sample: 3  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7959189880604379
+***Test accuracy***
+0.6278587398647738
+For sample: 3  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.05911992619302686
+***Test accuracy***
+0.12027583977588019
+For sample: 3  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06277648044824895
+***Test accuracy***
+0.1278654742343022
+For sample: 3  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.05911992619302686
+***Test accuracy***
+0.11645071788379172
+For sample: 3  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8615409571250426
+***Test accuracy***
+0.7474342052097083
+For sample: 3  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8686208842643127
+***Test accuracy***
+0.7566400883549282
+For sample: 3  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8697158228767823
+***Test accuracy***
+0.7576367750451203
+For sample: 3  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8711892587873893
+***Test accuracy***
+0.7607749912453197
+For sample: 3  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8731256780001825
+***Test accuracy***
+0.7645260350725965
+For sample: 4  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7947598400848915
+***Test accuracy***
+0.6270438811518466
+For sample: 4  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8011503614311253
+***Test accuracy***
+0.6381219190259408
+For sample: 4  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.060012098395779756
+***Test accuracy***
+0.11877407537106376
+For sample: 4  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.0599681656736745
+***Test accuracy***
+0.11847776311181747
+For sample: 4  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7953073093911263
+***Test accuracy***
+0.628794817229211
+For sample: 4  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7947564606447296
+***Test accuracy***
+0.6270371467823183
+For sample: 4  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8013294717597083
+***Test accuracy***
+0.638559653045282
+For sample: 4  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.059961406793350616
+***Test accuracy***
+0.11850470058993078
+For sample: 4  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.05995802735318867
+***Test accuracy***
+0.11847776311181747
+For sample: 4  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7952971710706405
+***Test accuracy***
+0.628794817229211
+For sample: 4  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7947598400848915
+***Test accuracy***
+0.6270438811518466
+For sample: 4  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8011402231106395
+***Test accuracy***
+0.6381219190259408
+For sample: 4  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.060012098395779756
+***Test accuracy***
+0.11877407537106376
+For sample: 4  For coeff: 0  for C: 10
+***Validation accuracy***
+0.0599681656736745
+***Test accuracy***
+0.11847776311181747
+For sample: 4  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7953073093911263
+***Test accuracy***
+0.628794817229211
+For sample: 4  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9178255330221995
+***Test accuracy***
+0.8420588314521994
+For sample: 4  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7948105316873206
+***Test accuracy***
+0.6278115992780756
+For sample: 4  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06280689540970642
+***Test accuracy***
+0.1258788352234464
+For sample: 4  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06284068981132586
+***Test accuracy***
+0.12595964765778628
+For sample: 4  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.05952883845262194
+***Test accuracy***
+0.12005360558144547
+For sample: 4  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8601756632996178
+***Test accuracy***
+0.7466530183444225
+For sample: 4  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8779481391112748
+***Test accuracy***
+0.771960779031867
+For sample: 4  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8699490042479563
+***Test accuracy***
+0.7598658513589958
+For sample: 4  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8700774229741101
+***Test accuracy***
+0.760741319397678
+For sample: 4  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8686344020249606
+***Test accuracy***
+0.7576165719365353
+For sample: 5  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7959291263809237
+***Test accuracy***
+0.6278115992780756
+For sample: 5  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8026170384614085
+***Test accuracy***
+0.6388357621959432
+For sample: 5  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06302993846039465
+***Test accuracy***
+0.12694959997845
+For sample: 5  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06293531413586026
+***Test accuracy***
+0.12704388115184656
+For sample: 5  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7964698368068346
+***Test accuracy***
+0.628855426554966
+For sample: 5  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7959764385431909
+***Test accuracy***
+0.6278115992780756
+For sample: 5  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8023939954107202
+***Test accuracy***
+0.6387212779139617
+For sample: 5  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.05973836374266239
+***Test accuracy***
+0.12159577620343183
+For sample: 5  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06290151973424082
+***Test accuracy***
+0.12699000619561995
+For sample: 5  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7964596984863488
+***Test accuracy***
+0.6288621609244942
+For sample: 5  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7959291263809237
+***Test accuracy***
+0.6278115992780756
+For sample: 5  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8026305562220563
+***Test accuracy***
+0.6389233089998114
+For sample: 5  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06317863382752013
+***Test accuracy***
+0.12701694367373326
+For sample: 5  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06293531413586026
+***Test accuracy***
+0.12704388115184656
+For sample: 5  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7964664573666727
+***Test accuracy***
+0.628855426554966
+For sample: 5  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9251893331350728
+***Test accuracy***
+0.8473924521186327
+For sample: 5  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7960812011882111
+***Test accuracy***
+0.627966489777227
+For sample: 5  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06293193469569831
+***Test accuracy***
+0.128027099102982
+For sample: 5  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06293193469569831
+***Test accuracy***
+0.12796648977722705
+For sample: 5  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7961521694316119
+***Test accuracy***
+0.6280809740592086
+For sample: 5  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8664479042401836
+***Test accuracy***
+0.7539732780217117
+For sample: 5  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8799791826486024
+***Test accuracy***
+0.7718867009670555
+For sample: 5  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8697023051161344
+***Test accuracy***
+0.7592530237319182
+For sample: 5  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8706620661221262
+***Test accuracy***
+0.7603776634431485
+For sample: 5  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8728553227872271
+***Test accuracy***
+0.7642431915524068
+For sample: 6  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7957297394113692
+***Test accuracy***
+0.6278587398647738
+For sample: 6  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8027116627859429
+***Test accuracy***
+0.6399536675376452
+For sample: 6  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06028245360873518
+***Test accuracy***
+0.12141394822616706
+For sample: 6  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06337802079707476
+***Test accuracy***
+0.12742100584543276
+For sample: 6  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7964664573666727
+***Test accuracy***
+0.6292190825094954
+For sample: 6  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7957297394113692
+***Test accuracy***
+0.6278587398647738
+For sample: 6  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8026846272646473
+***Test accuracy***
+0.6398459176251919
+For sample: 6  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06016417320306718
+***Test accuracy***
+0.12138701074805376
+For sample: 6  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06334084695529339
+***Test accuracy***
+0.12709775610807317
+For sample: 6  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7964664573666727
+***Test accuracy***
+0.6292190825094954
+For sample: 6  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7957297394113692
+***Test accuracy***
+0.6278587398647738
+For sample: 6  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8027116627859429
+***Test accuracy***
+0.6399536675376452
+For sample: 6  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06028245360873518
+***Test accuracy***
+0.12141394822616706
+For sample: 6  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06342195351918001
+***Test accuracy***
+0.12734692778062118
+For sample: 6  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7964664573666727
+***Test accuracy***
+0.6292190825094954
+For sample: 6  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9247466264738583
+***Test accuracy***
+0.8478571236160871
+For sample: 6  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7958649170178468
+***Test accuracy***
+0.627966489777227
+For sample: 6  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.059768778704119875
+***Test accuracy***
+0.12070010505616464
+For sample: 6  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.18972177069146726
+***Test accuracy***
+0.3389946933168117
+For sample: 6  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.1751563835934939
+***Test accuracy***
+0.3105958570158662
+For sample: 6  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8626156190965405
+***Test accuracy***
+0.7487070010505616
+For sample: 6  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8799183527256874
+***Test accuracy***
+0.7712199983837513
+For sample: 6  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8697529967185637
+***Test accuracy***
+0.7593068986881448
+For sample: 6  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8774750174886028
+***Test accuracy***
+0.7689437814831775
+For sample: 6  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8774682586082789
+***Test accuracy***
+0.7685733911591197
+For sample: 7  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7954255897967942
+***Test accuracy***
+0.6270371467823183
+For sample: 7  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.059947889032702845
+***Test accuracy***
+0.11931955930285806
+For sample: 7  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.19655837813907748
+***Test accuracy***
+0.35479352423026156
+For sample: 7  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06294207301618414
+***Test accuracy***
+0.12690919376128007
+For sample: 7  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7959088497399521
+***Test accuracy***
+0.628794817229211
+For sample: 7  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.11455288316937416
+***Test accuracy***
+0.2200859305551814
+For sample: 7  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.06288124309326917
+***Test accuracy***
+0.12703714678231823
+For sample: 7  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06288124309326917
+***Test accuracy***
+0.12689572502222343
+For sample: 7  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06290151973424082
+***Test accuracy***
+0.12690919376128007
+For sample: 7  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7958649170178468
+***Test accuracy***
+0.628794817229211
+For sample: 7  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7954255897967942
+***Test accuracy***
+0.6270371467823183
+For sample: 7  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.0599208535114073
+***Test accuracy***
+0.12141394822616706
+For sample: 7  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.19652796317762
+***Test accuracy***
+0.35480025859978986
+For sample: 7  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06291841693505054
+***Test accuracy***
+0.1268889906526951
+For sample: 7  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7959088497399521
+***Test accuracy***
+0.628794817229211
+For sample: 7  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.1259483553954452
+***Test accuracy***
+0.23641004229184065
+For sample: 7  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.05946800852970697
+***Test accuracy***
+0.12043746464455998
+For sample: 7  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.05939704028630617
+***Test accuracy***
+0.12068663631710799
+For sample: 7  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.05930579540193372
+***Test accuracy***
+0.12016135549389866
+For sample: 7  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7955979412450533
+***Test accuracy***
+0.627966489777227
+For sample: 7  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8541332242900641
+***Test accuracy***
+0.7365716671605205
+For sample: 7  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8612131514293342
+***Test accuracy***
+0.7463365029765914
+For sample: 7  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.861872142260913
+***Test accuracy***
+0.746599143388196
+For sample: 7  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8681410037613169
+***Test accuracy***
+0.7555423861218112
+For sample: 7  For coeff: 10  for C: 100
+***Validation accuracy***
+0.869732720077592
+***Test accuracy***
+0.7587412116477655
+For sample: 8  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7957770515736363
+***Test accuracy***
+0.6278115992780756
+For sample: 8  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8030124329603557
+***Test accuracy***
+0.6399469331681168
+For sample: 8  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06836945391626423
+***Test accuracy***
+0.12138701074805376
+For sample: 8  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06314821886606264
+***Test accuracy***
+0.12720550602052635
+For sample: 8  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7963819713626241
+***Test accuracy***
+0.6288823640330792
+For sample: 8  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7957804310137983
+***Test accuracy***
+0.6278115992780756
+For sample: 8  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8029347058366311
+***Test accuracy***
+0.6398391832556636
+For sample: 8  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.7963447975208428
+***Test accuracy***
+0.628855426554966
+For sample: 8  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06323270487011122
+***Test accuracy***
+0.1281415833849635
+For sample: 8  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7963447975208428
+***Test accuracy***
+0.628855426554966
+For sample: 8  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7957770515736363
+***Test accuracy***
+0.6278115992780756
+For sample: 8  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8030124329603557
+***Test accuracy***
+0.6399536675376452
+For sample: 8  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06836945391626423
+***Test accuracy***
+0.12138701074805376
+For sample: 8  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06316511606687236
+***Test accuracy***
+0.12725264660722463
+For sample: 8  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7963819713626241
+***Test accuracy***
+0.6288823640330792
+For sample: 8  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9181668564785558
+***Test accuracy***
+0.8420588314521994
+For sample: 8  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7958953319793043
+***Test accuracy***
+0.627966489777227
+For sample: 8  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06307387118249991
+***Test accuracy***
+0.12812811464590684
+For sample: 8  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06307387118249991
+***Test accuracy***
+0.12812811464590684
+For sample: 8  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7959663002227051
+***Test accuracy***
+0.6281617864935485
+For sample: 8  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8677996803049607
+***Test accuracy***
+0.7542763246504862
+For sample: 8  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8732777528074699
+***Test accuracy***
+0.7640007542493872
+For sample: 8  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8694218115826932
+***Test accuracy***
+0.7572125097648358
+For sample: 8  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8756061870790485
+***Test accuracy***
+0.7671591735581715
+For sample: 8  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8732980294484416
+***Test accuracy***
+0.7640748323141987
+For sample: 9  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7958345020563894
+***Test accuracy***
+0.6270371467823183
+For sample: 9  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8028164254309631
+***Test accuracy***
+0.6395294022573607
+For sample: 9  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06290151973424082
+***Test accuracy***
+0.12696980308703498
+For sample: 9  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.0628204131703542
+***Test accuracy***
+0.12684185006599683
+For sample: 9  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7963549358413285
+***Test accuracy***
+0.628794817229211
+For sample: 9  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7958345020563894
+***Test accuracy***
+0.6270371467823183
+For sample: 9  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.802765733828534
+***Test accuracy***
+0.6394418554534924
+For sample: 9  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.059667395499261595
+***Test accuracy***
+0.1210166204239959
+For sample: 9  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.05962684221731828
+***Test accuracy***
+0.12098968294588261
+For sample: 9  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.796327900320033
+***Test accuracy***
+0.628794817229211
+For sample: 9  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7958345020563894
+***Test accuracy***
+0.6270438811518466
+For sample: 9  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8028164254309631
+***Test accuracy***
+0.6395294022573607
+For sample: 9  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06289814029407888
+***Test accuracy***
+0.12696980308703498
+For sample: 9  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06287110477278333
+***Test accuracy***
+0.12690919376128007
+For sample: 9  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7963549358413285
+***Test accuracy***
+0.628794817229211
+For sample: 9  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9191367558050333
+***Test accuracy***
+0.8420588314521994
+For sample: 9  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7958987114194662
+***Test accuracy***
+0.6278115992780756
+For sample: 9  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.05940041972646811
+***Test accuracy***
+0.12035665221022009
+For sample: 9  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.19265174531187162
+***Test accuracy***
+0.34570885973655147
+For sample: 9  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.0592652421199904
+***Test accuracy***
+0.11647765536190502
+For sample: 9  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8622540189992126
+***Test accuracy***
+0.7474813457964066
+For sample: 9  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8692055274123289
+***Test accuracy***
+0.7569296662446462
+For sample: 9  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8702768099436647
+***Test accuracy***
+0.7580273684777631
+For sample: 9  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8718178346575106
+***Test accuracy***
+0.7611521159389057
+For sample: 9  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8687966151527338
+***Test accuracy***
+0.755165261428225
+For sample: 10  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7967503303402759
+***Test accuracy***
+0.6270438811518466
+For sample: 10  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8032591320921776
+***Test accuracy***
+0.6387414810225467
+For sample: 10  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.05949504405100251
+***Test accuracy***
+0.11991891819087896
+For sample: 10  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.059491664610840565
+***Test accuracy***
+0.12088193303342941
+For sample: 10  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7971153098777657
+***Test accuracy***
+0.6286870673167578
+For sample: 10  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.79674019201979
+***Test accuracy***
+0.6270371467823183
+For sample: 10  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.803174646088129
+***Test accuracy***
+0.6385731217843386
+For sample: 10  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.05948152629035474
+***Test accuracy***
+0.11871346604530884
+For sample: 10  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.7971017921171178
+***Test accuracy***
+0.628565848665248
+For sample: 10  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7971017921171178
+***Test accuracy***
+0.6285927861433612
+For sample: 10  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7967503303402759
+***Test accuracy***
+0.6270438811518466
+For sample: 10  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8032591320921776
+***Test accuracy***
+0.63876841850066
+For sample: 10  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.05949504405100251
+***Test accuracy***
+0.11878754411012041
+For sample: 10  For coeff: 0  for C: 10
+***Validation accuracy***
+0.059491664610840565
+***Test accuracy***
+0.12088193303342941
+For sample: 10  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7971186893179276
+***Test accuracy***
+0.6286870673167578
+For sample: 10  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9183527256874626
+***Test accuracy***
+0.8420588314521994
+For sample: 10  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7968179191435146
+***Test accuracy***
+0.6278587398647738
+For sample: 10  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06288800197359305
+***Test accuracy***
+0.12793281792958544
+For sample: 10  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06261764676063764
+***Test accuracy***
+0.12609433504835277
+For sample: 10  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.059244965479018745
+***Test accuracy***
+0.11581768714812919
+For sample: 10  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8616051664881196
+***Test accuracy***
+0.7468011744740457
+For sample: 10  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.879114045967145
+***Test accuracy***
+0.7718530291194139
+For sample: 10  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8697360995177539
+***Test accuracy***
+0.7572865878296474
+For sample: 10  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8710507017407496
+***Test accuracy***
+0.7598658513589958
+For sample: 10  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8736359734646358
+***Test accuracy***
+0.7644788944858982
+For sample: 11  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7950606102593044
+***Test accuracy***
+0.6278115992780756
+For sample: 11  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8021236401977648
+***Test accuracy***
+0.6399065269509469
+For sample: 11  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06844042215966503
+***Test accuracy***
+0.12141394822616706
+For sample: 11  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06845056048015086
+***Test accuracy***
+0.11751474826926703
+For sample: 11  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7958412609367133
+***Test accuracy***
+0.6292190825094954
+For sample: 11  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7950538513789805
+***Test accuracy***
+0.6278115992780756
+For sample: 11  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.802116881317441
+***Test accuracy***
+0.6397246989736821
+For sample: 11  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06850125208258
+***Test accuracy***
+0.1157368747137893
+For sample: 11  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06320228990865373
+***Test accuracy***
+0.12733345904156454
+For sample: 11  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7958378814965513
+***Test accuracy***
+0.6292190825094954
+For sample: 11  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7950606102593044
+***Test accuracy***
+0.6278115992780756
+For sample: 11  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8021236401977648
+***Test accuracy***
+0.6399065269509469
+For sample: 11  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06855194368500914
+***Test accuracy***
+0.11688845190313282
+For sample: 11  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06845056048015086
+***Test accuracy***
+0.11756862322549363
+For sample: 11  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7958412609367133
+***Test accuracy***
+0.6292190825094954
+For sample: 11  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9180418171925638
+***Test accuracy***
+0.8407321606551195
+For sample: 11  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7952160645067539
+***Test accuracy***
+0.627966489777227
+For sample: 11  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06271902996549591
+***Test accuracy***
+0.12638391293807075
+For sample: 11  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06268861500403843
+***Test accuracy***
+0.1264243191552407
+For sample: 11  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7953309654722599
+***Test accuracy***
+0.6282830051450583
+For sample: 11  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8673197998019648
+***Test accuracy***
+0.7546332462354874
+For sample: 11  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8733149266492513
+***Test accuracy***
+0.7645125663335398
+For sample: 11  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8696482340735434
+***Test accuracy***
+0.7577377905880451
+For sample: 11  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8710135278989682
+***Test accuracy***
+0.7608625380491878
+For sample: 11  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8756568786814777
+***Test accuracy***
+0.7674016108611912
+For sample: 12  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7963752124823001
+***Test accuracy***
+0.6270371467823183
+For sample: 12  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8024413075729875
+***Test accuracy***
+0.6376774506370714
+For sample: 12  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.19059028681308654
+***Test accuracy***
+0.34137192576031034
+For sample: 12  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06311780390460517
+***Test accuracy***
+0.12666675645826037
+For sample: 12  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.796976752831126
+***Test accuracy***
+0.628794817229211
+For sample: 12  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7963583152814905
+***Test accuracy***
+0.6270371467823183
+For sample: 12  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.7967875041820572
+***Test accuracy***
+0.6282493332974167
+For sample: 12  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.19579800410264037
+***Test accuracy***
+0.3567128195458341
+For sample: 12  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06060687986428168
+***Test accuracy***
+0.12218166635239609
+For sample: 12  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7969395789893446
+***Test accuracy***
+0.628794817229211
+For sample: 12  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7963752124823001
+***Test accuracy***
+0.6270371467823183
+For sample: 12  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8024582047737971
+***Test accuracy***
+0.6376774506370714
+For sample: 12  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.19582166018377395
+***Test accuracy***
+0.3567128195458341
+For sample: 12  For coeff: 0  for C: 10
+***Validation accuracy***
+0.05970118990088102
+***Test accuracy***
+0.12098968294588261
+For sample: 12  For coeff: 0  for C: 100
+***Validation accuracy***
+0.796976752831126
+***Test accuracy***
+0.628794817229211
+For sample: 12  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9186264603405799
+***Test accuracy***
+0.8420588314521994
+For sample: 12  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7965137695289398
+***Test accuracy***
+0.6278587398647738
+For sample: 12  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.05934634868387703
+***Test accuracy***
+0.12016135549389866
+For sample: 12  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.0628204131703542
+***Test accuracy***
+0.12516499205344395
+For sample: 12  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.05934634868387703
+***Test accuracy***
+0.11919834065134823
+For sample: 12  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8596417117540308
+***Test accuracy***
+0.7444980200953587
+For sample: 12  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8686580581060942
+***Test accuracy***
+0.7561013387926623
+For sample: 12  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8703917109091708
+***Test accuracy***
+0.7593068986881448
+For sample: 12  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8710507017407496
+***Test accuracy***
+0.759684023381731
+For sample: 12  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8673941474855276
+***Test accuracy***
+0.7541349028903914
+For sample: 13  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7957027038900736
+***Test accuracy***
+0.6270573498909032
+For sample: 13  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8022824738853761
+***Test accuracy***
+0.638559653045282
+For sample: 13  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06385114241974675
+***Test accuracy***
+0.12812138027637854
+For sample: 13  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06404377050897749
+***Test accuracy***
+0.12857931740430462
+For sample: 13  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7961927227135552
+***Test accuracy***
+0.628794817229211
+For sample: 13  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7956993244499116
+***Test accuracy***
+0.6270438811518466
+For sample: 13  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8022013673214895
+***Test accuracy***
+0.6384317000242438
+For sample: 13  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06400321722703417
+***Test accuracy***
+0.12853891118713465
+For sample: 13  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06399983778687222
+***Test accuracy***
+0.12861972362147456
+For sample: 13  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.79614878999145
+***Test accuracy***
+0.6287342079034561
+For sample: 13  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7957027038900736
+***Test accuracy***
+0.6270573498909032
+For sample: 13  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8022824738853761
+***Test accuracy***
+0.638559653045282
+For sample: 13  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06404714994913943
+***Test accuracy***
+0.12834361447081324
+For sample: 13  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06402349386800582
+***Test accuracy***
+0.12857931740430462
+For sample: 13  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7961927227135552
+***Test accuracy***
+0.628794817229211
+For sample: 13  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9174909684461672
+***Test accuracy***
+0.8415874255852167
+For sample: 13  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7958243637359035
+***Test accuracy***
+0.6278587398647738
+For sample: 13  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06370244705262126
+***Test accuracy***
+0.12793281792958544
+For sample: 13  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06370244705262126
+***Test accuracy***
+0.12793281792958544
+For sample: 13  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7959189880604379
+***Test accuracy***
+0.627966489777227
+For sample: 13  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8664580425606694
+***Test accuracy***
+0.7539800123912399
+For sample: 13  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8676239494165396
+***Test accuracy***
+0.7559127764458692
+For sample: 13  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8698746565643936
+***Test accuracy***
+0.7593001643186165
+For sample: 13  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8765321536834209
+***Test accuracy***
+0.7681895320960052
+For sample: 13  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8733588593713565
+***Test accuracy***
+0.7639334105541039
+For sample: 14  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7955675262835958
+***Test accuracy***
+0.6270573498909032
+For sample: 14  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.7958649170178468
+***Test accuracy***
+0.6282493332974167
+For sample: 14  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06278661876873477
+***Test accuracy***
+0.12680144384882688
+For sample: 14  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06278661876873477
+***Test accuracy***
+0.12680144384882688
+For sample: 14  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.8545083421480397
+***Test accuracy***
+0.7361541362497643
+For sample: 14  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7955540085229481
+***Test accuracy***
+0.6270438811518466
+For sample: 14  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.05962684221731828
+***Test accuracy***
+0.12105702664116585
+For sample: 14  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06280013652938254
+***Test accuracy***
+0.12668022519731703
+For sample: 14  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06280351596954449
+***Test accuracy***
+0.12672063141448697
+For sample: 14  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7959392647014095
+***Test accuracy***
+0.628565848665248
+For sample: 14  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7955675262835958
+***Test accuracy***
+0.6270573498909032
+For sample: 14  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.7958649170178468
+***Test accuracy***
+0.6282493332974167
+For sample: 14  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06281703373019226
+***Test accuracy***
+0.12680144384882688
+For sample: 14  For coeff: 0  for C: 10
+***Validation accuracy***
+0.0627967570892206
+***Test accuracy***
+0.12666002208873206
+For sample: 14  For coeff: 0  for C: 100
+***Validation accuracy***
+0.8545083421480397
+***Test accuracy***
+0.7361541362497643
+For sample: 14  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.918389899529244
+***Test accuracy***
+0.8416615036500282
+For sample: 14  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7955675262835958
+***Test accuracy***
+0.6270977561080732
+For sample: 14  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06282717205067809
+***Test accuracy***
+0.1275960994531692
+For sample: 14  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.05911992619302686
+***Test accuracy***
+0.1200064649947472
+For sample: 14  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7955945618048914
+***Test accuracy***
+0.6278115992780756
+For sample: 14  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8609596934171885
+***Test accuracy***
+0.7461883468469682
+For sample: 14  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8681646598424505
+***Test accuracy***
+0.7561888855965304
+For sample: 14  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.869310290057349
+***Test accuracy***
+0.7569431349837028
+For sample: 14  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8787862402714366
+***Test accuracy***
+0.7716173261859225
+For sample: 14  For coeff: 10  for C: 100
+***Validation accuracy***
+0.875457491711923
+***Test accuracy***
+0.7672197828839264
+For sample: 15  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7955371113221383
+***Test accuracy***
+0.6270438811518466
+For sample: 15  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.060569706022500315
+***Test accuracy***
+0.12154863561673356
+For sample: 15  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.060062789998208896
+***Test accuracy***
+0.12098968294588261
+For sample: 15  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06329691423318813
+***Test accuracy***
+0.12684185006599683
+For sample: 15  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.14788092204645378
+***Test accuracy***
+0.2684454381380815
+For sample: 15  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7955337318819764
+***Test accuracy***
+0.6270371467823183
+For sample: 15  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.06242839811156884
+***Test accuracy***
+0.12304366565202166
+For sample: 15  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06246219251318826
+***Test accuracy***
+0.12173719796352665
+For sample: 15  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06328001703237841
+***Test accuracy***
+0.12684185006599683
+For sample: 15  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7960068535046484
+***Test accuracy***
+0.628794817229211
+For sample: 15  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7955371113221383
+***Test accuracy***
+0.6270438811518466
+For sample: 15  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.060569706022500315
+***Test accuracy***
+0.12154863561673356
+For sample: 15  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.060062789998208896
+***Test accuracy***
+0.12098968294588261
+For sample: 15  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06329691423318813
+***Test accuracy***
+0.12684185006599683
+For sample: 15  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7960271301456201
+***Test accuracy***
+0.628794817229211
+For sample: 15  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.1328457927659704
+***Test accuracy***
+0.2470907523637637
+For sample: 15  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.07182662120193169
+***Test accuracy***
+0.1336098914419632
+For sample: 15  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06299952349893717
+***Test accuracy***
+0.12647145974193896
+For sample: 15  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06299952349893717
+***Test accuracy***
+0.12647145974193896
+For sample: 15  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7956858066892638
+***Test accuracy***
+0.627966489777227
+For sample: 15  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8682930785686043
+***Test accuracy***
+0.7564649947471918
+For sample: 15  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8731932668034214
+***Test accuracy***
+0.7646539880936347
+For sample: 15  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8777284755007485
+***Test accuracy***
+0.7689303127441209
+For sample: 15  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8756872936429351
+***Test accuracy***
+0.7677383293376074
+For sample: 15  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8777318549409104
+***Test accuracy***
+0.7693007030681788
+For sample: 16  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.794790255046349
+***Test accuracy***
+0.6270102093042049
+For sample: 16  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8009475950214088
+***Test accuracy***
+0.6376774506370714
+For sample: 16  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.059258483239666516
+***Test accuracy***
+0.11847776311181747
+For sample: 16  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.05926186267982846
+***Test accuracy***
+0.11867305982813889
+For sample: 16  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7953073093911263
+***Test accuracy***
+0.628794817229211
+For sample: 16  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7947699784053773
+***Test accuracy***
+0.6270102093042049
+For sample: 16  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.7951417168231911
+***Test accuracy***
+0.6282830051450583
+For sample: 16  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.059258483239666516
+***Test accuracy***
+0.11867979419766722
+For sample: 16  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.05924834491918069
+***Test accuracy***
+0.11870673167578051
+For sample: 16  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7952971710706405
+***Test accuracy***
+0.628794817229211
+For sample: 16  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7948139111274827
+***Test accuracy***
+0.6270102093042049
+For sample: 16  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8009847688631901
+***Test accuracy***
+0.637690919376128
+For sample: 16  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.059258483239666516
+***Test accuracy***
+0.11847776311181747
+For sample: 16  For coeff: 0  for C: 10
+***Validation accuracy***
+0.05926186267982846
+***Test accuracy***
+0.11869999730625219
+For sample: 16  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7953106888312882
+***Test accuracy***
+0.6288217547073243
+For sample: 16  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9183459668071388
+***Test accuracy***
+0.8420588314521994
+For sample: 16  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7949119148921789
+***Test accuracy***
+0.6278115992780756
+For sample: 16  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06220535506088062
+***Test accuracy***
+0.12589230396250303
+For sample: 16  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.062161422338775356
+***Test accuracy***
+0.1258788352234464
+For sample: 16  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.058917159783310295
+***Test accuracy***
+0.11569646849661934
+For sample: 16  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8594693603057717
+***Test accuracy***
+0.7447606605069633
+For sample: 16  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8666371528892524
+***Test accuracy***
+0.7540810279341648
+For sample: 16  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8696313368727336
+***Test accuracy***
+0.7592732268405032
+For sample: 16  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8751465832170243
+***Test accuracy***
+0.7673477359049645
+For sample: 16  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8679821700737056
+***Test accuracy***
+0.756074401314549
+For sample: 17  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7951924084256202
+***Test accuracy***
+0.6278115992780756
+For sample: 17  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8023602010091009
+***Test accuracy***
+0.6396506209088705
+For sample: 17  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06309076838330963
+***Test accuracy***
+0.12689572502222343
+For sample: 17  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06309076838330963
+***Test accuracy***
+0.12692939686986504
+For sample: 17  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.8577931579854481
+***Test accuracy***
+0.7396829458826065
+For sample: 17  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7951924084256202
+***Test accuracy***
+0.6271112248471298
+For sample: 17  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8023264066074814
+***Test accuracy***
+0.639576542844059
+For sample: 17  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.06836269503594035
+***Test accuracy***
+0.11889529402257361
+For sample: 17  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06301304125958494
+***Test accuracy***
+0.1268081782183552
+For sample: 17  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.8577255691822093
+***Test accuracy***
+0.7396694771435498
+For sample: 17  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7951924084256202
+***Test accuracy***
+0.6278115992780756
+For sample: 17  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8023602010091009
+***Test accuracy***
+0.6396506209088705
+For sample: 17  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06310090670379545
+***Test accuracy***
+0.1269226625003367
+For sample: 17  For coeff: 0  for C: 10
+***Validation accuracy***
+0.0630975272636335
+***Test accuracy***
+0.1269226625003367
+For sample: 17  For coeff: 0  for C: 100
+***Validation accuracy***
+0.8577255691822093
+***Test accuracy***
+0.7396762115130782
+For sample: 17  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9182479630424424
+***Test accuracy***
+0.8420588314521994
+For sample: 17  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7952904121903166
+***Test accuracy***
+0.6278587398647738
+For sample: 17  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06278323932857283
+***Test accuracy***
+0.12598658513589958
+For sample: 17  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.0628204131703542
+***Test accuracy***
+0.12601352261401289
+For sample: 17  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.7954188309164704
+***Test accuracy***
+0.627966489777227
+For sample: 17  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8652617207433416
+***Test accuracy***
+0.75128626457991
+For sample: 17  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8781407672005056
+***Test accuracy***
+0.7691256094604423
+For sample: 17  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.868843927315001
+***Test accuracy***
+0.7567006976806832
+For sample: 17  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8688304095543532
+***Test accuracy***
+0.7569431349837028
+For sample: 17  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8733284444098991
+***Test accuracy***
+0.763872801228349
+For sample: 18  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.7956553917278064
+***Test accuracy***
+0.6278587398647738
+For sample: 18  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8030225712808416
+***Test accuracy***
+0.6413072758128384
+For sample: 18  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.06903182418800502
+***Test accuracy***
+0.12141394822616706
+For sample: 18  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.06895747650444227
+***Test accuracy***
+0.12119844840126068
+For sample: 18  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.7963177619995472
+***Test accuracy***
+0.6289564420978908
+For sample: 18  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.7956553917278064
+***Test accuracy***
+0.6278587398647738
+For sample: 18  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8030158124005178
+***Test accuracy***
+0.6412736039651967
+For sample: 18  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.7963380386405188
+***Test accuracy***
+0.6292190825094954
+For sample: 18  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.06372272369359291
+***Test accuracy***
+0.1271112248471298
+For sample: 18  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.7963177619995472
+***Test accuracy***
+0.6289564420978908
+For sample: 18  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.7956553917278064
+***Test accuracy***
+0.6278587398647738
+For sample: 18  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8030225712808416
+***Test accuracy***
+0.6413072758128384
+For sample: 18  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.06899465034622364
+***Test accuracy***
+0.12141394822616706
+For sample: 18  For coeff: 0  for C: 10
+***Validation accuracy***
+0.06895747650444227
+***Test accuracy***
+0.1211513078145624
+For sample: 18  For coeff: 0  for C: 100
+***Validation accuracy***
+0.7963177619995472
+***Test accuracy***
+0.6289564420978908
+For sample: 18  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.7951079224215717
+***Test accuracy***
+0.6266667564582604
+For sample: 18  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7957669132531505
+***Test accuracy***
+0.6279799585162837
+For sample: 18  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06345912736096139
+***Test accuracy***
+0.1267543032621286
+For sample: 18  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.0634523684806375
+***Test accuracy***
+0.12650513158958057
+For sample: 18  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.18078653090329055
+***Test accuracy***
+0.3215392074993939
+For sample: 18  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8679686523130579
+***Test accuracy***
+0.7550911833634135
+For sample: 18  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8809254258939464
+***Test accuracy***
+0.7719001697061121
+For sample: 18  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8701213556962154
+***Test accuracy***
+0.758108180912103
+For sample: 18  For coeff: 10  for C: 10
+***Validation accuracy***
+0.8706282717205068
+***Test accuracy***
+0.7599803356409773
+For sample: 18  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8784043635331371
+***Test accuracy***
+0.7692468281119521
+For sample: 19  For coeff: 0.01  for C: 0.01
+***Validation accuracy***
+0.795614838445863
+***Test accuracy***
+0.6278115992780756
+For sample: 19  For coeff: 0.01  for C: 0.1
+***Validation accuracy***
+0.8026373151023801
+***Test accuracy***
+0.6399536675376452
+For sample: 19  For coeff: 0.01  for C: 1.0
+***Validation accuracy***
+0.059488285170678626
+***Test accuracy***
+0.1210974328583358
+For sample: 19  For coeff: 0.01  for C: 10
+***Validation accuracy***
+0.18923851074830944
+***Test accuracy***
+0.33797106914850633
+For sample: 19  For coeff: 0.01  for C: 100
+***Validation accuracy***
+0.8583575244924926
+***Test accuracy***
+0.7405314764431754
+For sample: 19  For coeff: 0.1  for C: 0.01
+***Validation accuracy***
+0.795614838445863
+***Test accuracy***
+0.6278115992780756
+For sample: 19  For coeff: 0.1  for C: 0.1
+***Validation accuracy***
+0.8025933823802749
+***Test accuracy***
+0.6398459176251919
+For sample: 19  For coeff: 0.1  for C: 1.0
+***Validation accuracy***
+0.05965725717877576
+***Test accuracy***
+0.12138701074805376
+For sample: 19  For coeff: 0.1  for C: 10
+***Validation accuracy***
+0.05950856181165028
+***Test accuracy***
+0.1211513078145624
+For sample: 19  For coeff: 0.1  for C: 100
+***Validation accuracy***
+0.8581412403221282
+***Test accuracy***
+0.7398311020122296
+For sample: 19  For coeff: 0  for C: 0.01
+***Validation accuracy***
+0.795618217886025
+***Test accuracy***
+0.6278115992780756
+For sample: 19  For coeff: 0  for C: 0.1
+***Validation accuracy***
+0.8026373151023801
+***Test accuracy***
+0.6399536675376452
+For sample: 19  For coeff: 0  for C: 1.0
+***Validation accuracy***
+0.059488285170678626
+***Test accuracy***
+0.1210974328583358
+For sample: 19  For coeff: 0  for C: 10
+***Validation accuracy***
+0.1892587873892811
+***Test accuracy***
+0.33797106914850633
+For sample: 19  For coeff: 0  for C: 100
+***Validation accuracy***
+0.8583575244924926
+***Test accuracy***
+0.7405314764431754
+For sample: 19  For coeff: 1.0  for C: 0.01
+***Validation accuracy***
+0.9241890188471378
+***Test accuracy***
+0.8469345149907066
+For sample: 19  For coeff: 1.0  for C: 0.1
+***Validation accuracy***
+0.7957466366121788
+***Test accuracy***
+0.627966489777227
+For sample: 19  For coeff: 1.0  for C: 1.0
+***Validation accuracy***
+0.06281027484986837
+***Test accuracy***
+0.1263165692427875
+For sample: 19  For coeff: 1.0  for C: 10
+***Validation accuracy***
+0.06291165805472665
+***Test accuracy***
+0.12671389704495864
+For sample: 19  For coeff: 1.0  for C: 100
+***Validation accuracy***
+0.05927200100031429
+***Test accuracy***
+0.12040379279691835
+For sample: 19  For coeff: 10  for C: 0.01
+***Validation accuracy***
+0.8673907680453656
+***Test accuracy***
+0.7542157153247313
+For sample: 19  For coeff: 10  for C: 0.1
+***Validation accuracy***
+0.8779954512735421
+***Test accuracy***
+0.7693007030681788
+For sample: 19  For coeff: 10  for C: 1.0
+***Validation accuracy***
+0.8698036883209928
+***Test accuracy***
+0.7579667591520082
+For sample: 19  For coeff: 10  for C: 10
+***Validation accuracy***
+0.871084496142369
+***Test accuracy***
+0.7602160385744686
+For sample: 19  For coeff: 10  for C: 100
+***Validation accuracy***
+0.8747478092779151
+***Test accuracy***
+0.7648492848099561
+
